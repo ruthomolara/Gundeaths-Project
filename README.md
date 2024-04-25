@@ -12,3 +12,4 @@ Features:
 •	Place: The location of the incident, such as home or street, which can influence the context of the death.
 •	Education: Educational background of the deceased, offering a socio-economic dimension.
 
+![Tableau 1](https://github.com/ruthomolara/Gundeaths-Project/assets/140560092/9a6e9a0d-6300-4014-aae8-2c9355b1951c)
