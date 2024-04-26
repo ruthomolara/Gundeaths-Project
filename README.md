@@ -1,6 +1,25 @@
 Tools Used: SQL and Tableau
 
 
+Questions explored
+
+1: How many males and females are included in this study?
+ 
+ 2: How many educated females are included in this study?
+ 
+ 3: What is the number of suicide gun deaths by gender in the United States from 2012 to 2014, by gender?
+ 
+ 4: What is the number of gun deaths by race in the United States 
+
+ 5: What is the percentage of suicide gun deaths in the United States from 2012 to 2014, by year?
+ 
+ 6: How would you classify death cause by gender?
+ 
+ 7: What is the age distribution of death by gun in the US between 2012-2014?
+ 
+ 8: Which 5 locations have the highest numbers of gun death in the US between 2012-2014, and what are the leading intents in those locations?
+
+
 
 Description:
 This comprehensive dataset offers an in-depth look at gun-related deaths in the United States from 2012 to 2014, as reported by the Centers for Disease Control and Prevention (CDC). It provides a rich source of information for public health research, policy development, and sociological studies, offering a nuanced understanding of the dynamics and demographics of gun-related fatalities.
