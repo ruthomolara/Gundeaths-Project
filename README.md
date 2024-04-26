@@ -1,3 +1,4 @@
+Tools Used: SQL and Tableau
 About Dataset
 Description:
 This comprehensive dataset offers an in-depth look at gun-related deaths in the United States from 2012 to 2014, as reported by the Centers for Disease Control and Prevention (CDC). It provides a rich source of information for public health research, policy development, and sociological studies, offering a nuanced understanding of the dynamics and demographics of gun-related fatalities.
